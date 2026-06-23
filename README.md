@@ -1,1 +1,2 @@
-# lilithea
+# Lilithea
+Private Discord Assistant
